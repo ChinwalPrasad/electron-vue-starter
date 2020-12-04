@@ -1,24 +1,9 @@
-# hello-world
+# Starter template for Electron-VueJS application
 
-## Project setup
-```
-npm install
-```
+1. Clone the application
+2. Run ``` npm install ```
+3. To run the application
+    - Development server run ``` npm run electron:serve ```.
+    - To Build application run ``` npm run electron:build ```.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> Note: Comes installed with TailwindCSS 2.0
